@@ -1,0 +1,122 @@
+C:\Users\Jaynil.Choksi\Downloads\StudentRecordManagementSystem\StudentRecordManagementSystem\StudentRecordManagementSystem\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Jaynil.Choksi\Downloads\StudentRecordManagementSystem\StudentRecordManagementSystem\StudentRecordManagementSystem\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Jaynil.Choksi\Downloads\StudentRecordManagementSystem\StudentRecordManagementSystem\StudentRecordManagementSystem\bin\Debug\netcoreapp2.1\StudentManagement.deps.json
+C:\Users\Jaynil.Choksi\Downloads\StudentRecordManagementSystem\StudentRecordManagementSystem\StudentRecordManagementSystem\bin\Debug\netcoreapp2.1\StudentManagement.runtimeconfig.json
+C:\Users\Jaynil.Choksi\Downloads\StudentRecordManagementSystem\StudentRecordManagementSystem\StudentRecordManagementSystem\bin\Debug\netcoreapp2.1\StudentManagement.runtimeconfig.dev.json
+C:\Users\Jaynil.Choksi\Downloads\StudentRecordManagementSystem\StudentRecordManagementSystem\StudentRecordManagementSystem\bin\Debug\netcoreapp2.1\StudentManagement.dll
+C:\Users\Jaynil.Choksi\Downloads\StudentRecordManagementSystem\StudentRecordManagementSystem\StudentRecordManagementSystem\bin\Debug\netcoreapp2.1\StudentManagement.pdb
+C:\Users\Jaynil.Choksi\Downloads\StudentRecordManagementSystem\StudentRecordManagementSystem\StudentRecordManagementSystem\bin\Debug\netcoreapp2.1\StudentManagement.Views.dll
+C:\Users\Jaynil.Choksi\Downloads\StudentRecordManagementSystem\StudentRecordManagementSystem\StudentRecordManagementSystem\bin\Debug\netcoreapp2.1\StudentManagement.Views.pdb
+C:\Users\Jaynil.Choksi\Downloads\StudentRecordManagementSystem\StudentRecordManagementSystem\StudentRecordManagementSystem\obj\Debug\netcoreapp2.1\StudentManagement.csprojAssemblyReference.cache
+C:\Users\Jaynil.Choksi\Downloads\StudentRecordManagementSystem\StudentRecordManagementSystem\StudentRecordManagementSystem\obj\Debug\netcoreapp2.1\StudentManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaynil.Choksi\Downloads\StudentRecordManagementSystem\StudentRecordManagementSystem\StudentRecordManagementSystem\obj\Debug\netcoreapp2.1\StudentManagement.AssemblyInfoInputs.cache
+C:\Users\Jaynil.Choksi\Downloads\StudentRecordManagementSystem\StudentRecordManagementSystem\StudentRecordManagementSystem\obj\Debug\netcoreapp2.1\StudentManagement.AssemblyInfo.cs
+C:\Users\Jaynil.Choksi\Downloads\StudentRecordManagementSystem\StudentRecordManagementSystem\StudentRecordManagementSystem\obj\Debug\netcoreapp2.1\StudentManagement.csproj.CoreCompileInputs.cache
+C:\Users\Jaynil.Choksi\Downloads\StudentRecordManagementSystem\StudentRecordManagementSystem\StudentRecordManagementSystem\obj\Debug\netcoreapp2.1\StudentManagement.RazorAssemblyInfo.cache
+C:\Users\Jaynil.Choksi\Downloads\StudentRecordManagementSystem\StudentRecordManagementSystem\StudentRecordManagementSystem\obj\Debug\netcoreapp2.1\StudentManagement.RazorAssemblyInfo.cs
+C:\Users\Jaynil.Choksi\Downloads\StudentRecordManagementSystem\StudentRecordManagementSystem\StudentRecordManagementSystem\obj\Debug\netcoreapp2.1\StudentManagement.TagHelpers.input.cache
+C:\Users\Jaynil.Choksi\Downloads\StudentRecordManagementSystem\StudentRecordManagementSystem\StudentRecordManagementSystem\obj\Debug\netcoreapp2.1\StudentManagement.TagHelpers.output.cache
+C:\Users\Jaynil.Choksi\Downloads\StudentRecordManagementSystem\StudentRecordManagementSystem\StudentRecordManagementSystem\obj\Debug\netcoreapp2.1\StudentManagement.RazorCoreGenerate.cache
+C:\Users\Jaynil.Choksi\Downloads\StudentRecordManagementSystem\StudentRecordManagementSystem\StudentRecordManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Jaynil.Choksi\Downloads\StudentRecordManagementSystem\StudentRecordManagementSystem\StudentRecordManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Jaynil.Choksi\Downloads\StudentRecordManagementSystem\StudentRecordManagementSystem\StudentRecordManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Jaynil.Choksi\Downloads\StudentRecordManagementSystem\StudentRecordManagementSystem\StudentRecordManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Jaynil.Choksi\Downloads\StudentRecordManagementSystem\StudentRecordManagementSystem\StudentRecordManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Jaynil.Choksi\Downloads\StudentRecordManagementSystem\StudentRecordManagementSystem\StudentRecordManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Jaynil.Choksi\Downloads\StudentRecordManagementSystem\StudentRecordManagementSystem\StudentRecordManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Jaynil.Choksi\Downloads\StudentRecordManagementSystem\StudentRecordManagementSystem\StudentRecordManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Jaynil.Choksi\Downloads\StudentRecordManagementSystem\StudentRecordManagementSystem\StudentRecordManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Student\Create.cshtml.g.cs
+C:\Users\Jaynil.Choksi\Downloads\StudentRecordManagementSystem\StudentRecordManagementSystem\StudentRecordManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Student\Delete.cshtml.g.cs
+C:\Users\Jaynil.Choksi\Downloads\StudentRecordManagementSystem\StudentRecordManagementSystem\StudentRecordManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Student\Details.cshtml.g.cs
+C:\Users\Jaynil.Choksi\Downloads\StudentRecordManagementSystem\StudentRecordManagementSystem\StudentRecordManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Student\Edit.cshtml.g.cs
+C:\Users\Jaynil.Choksi\Downloads\StudentRecordManagementSystem\StudentRecordManagementSystem\StudentRecordManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Student\Index.cshtml.g.cs
+C:\Users\Jaynil.Choksi\Downloads\StudentRecordManagementSystem\StudentRecordManagementSystem\StudentRecordManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Jaynil.Choksi\Downloads\StudentRecordManagementSystem\StudentRecordManagementSystem\StudentRecordManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Jaynil.Choksi\Downloads\StudentRecordManagementSystem\StudentRecordManagementSystem\StudentRecordManagementSystem\obj\Debug\netcoreapp2.1\StudentManagement.RazorTargetAssemblyInfo.cache
+C:\Users\Jaynil.Choksi\Downloads\StudentRecordManagementSystem\StudentRecordManagementSystem\StudentRecordManagementSystem\obj\Debug\netcoreapp2.1\StudentManagement.RazorTargetAssemblyInfo.cs
+C:\Users\Jaynil.Choksi\Downloads\StudentRecordManagementSystem\StudentRecordManagementSystem\StudentRecordManagementSystem\obj\Debug\netcoreapp2.1\StudentManagement.Views.pdb
+C:\Users\Jaynil.Choksi\Downloads\StudentRecordManagementSystem\StudentRecordManagementSystem\StudentRecordManagementSystem\obj\Debug\netcoreapp2.1\StudentManagement.dll
+C:\Users\Jaynil.Choksi\Downloads\StudentRecordManagementSystem\StudentRecordManagementSystem\StudentRecordManagementSystem\obj\Debug\netcoreapp2.1\StudentManagement.pdb
+C:\Users\Jaynil.Choksi\Downloads\StudentRecordManagementSystem\StudentRecordManagementSystem\StudentRecordManagementSystem\obj\Debug\netcoreapp2.1\StudentManagement.genruntimeconfig.cache
+C:\Users\Jaynil.Choksi\Downloads\StudentRecordManagementSystem\StudentRecordManagementSystem\StudentRecordManagementSystem\obj\Debug\netcoreapp2.1\StudentManagement.csproj.CopyComplete
+C:\Users\Jaynil.Choksi\Downloads\StudentManagement\Student Management\StudentManagement\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Jaynil.Choksi\Downloads\StudentManagement\Student Management\StudentManagement\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Jaynil.Choksi\Downloads\StudentManagement\Student Management\StudentManagement\bin\Debug\netcoreapp2.1\StudentManagement.deps.json
+C:\Users\Jaynil.Choksi\Downloads\StudentManagement\Student Management\StudentManagement\bin\Debug\netcoreapp2.1\StudentManagement.runtimeconfig.json
+C:\Users\Jaynil.Choksi\Downloads\StudentManagement\Student Management\StudentManagement\bin\Debug\netcoreapp2.1\StudentManagement.runtimeconfig.dev.json
+C:\Users\Jaynil.Choksi\Downloads\StudentManagement\Student Management\StudentManagement\bin\Debug\netcoreapp2.1\StudentManagement.dll
+C:\Users\Jaynil.Choksi\Downloads\StudentManagement\Student Management\StudentManagement\bin\Debug\netcoreapp2.1\StudentManagement.pdb
+C:\Users\Jaynil.Choksi\Downloads\StudentManagement\Student Management\StudentManagement\bin\Debug\netcoreapp2.1\StudentManagement.Views.dll
+C:\Users\Jaynil.Choksi\Downloads\StudentManagement\Student Management\StudentManagement\bin\Debug\netcoreapp2.1\StudentManagement.Views.pdb
+C:\Users\Jaynil.Choksi\Downloads\StudentManagement\Student Management\StudentManagement\obj\Debug\netcoreapp2.1\StudentManagement.csprojAssemblyReference.cache
+C:\Users\Jaynil.Choksi\Downloads\StudentManagement\Student Management\StudentManagement\obj\Debug\netcoreapp2.1\StudentManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaynil.Choksi\Downloads\StudentManagement\Student Management\StudentManagement\obj\Debug\netcoreapp2.1\StudentManagement.AssemblyInfoInputs.cache
+C:\Users\Jaynil.Choksi\Downloads\StudentManagement\Student Management\StudentManagement\obj\Debug\netcoreapp2.1\StudentManagement.AssemblyInfo.cs
+C:\Users\Jaynil.Choksi\Downloads\StudentManagement\Student Management\StudentManagement\obj\Debug\netcoreapp2.1\StudentManagement.csproj.CoreCompileInputs.cache
+C:\Users\Jaynil.Choksi\Downloads\StudentManagement\Student Management\StudentManagement\obj\Debug\netcoreapp2.1\StudentManagement.RazorAssemblyInfo.cache
+C:\Users\Jaynil.Choksi\Downloads\StudentManagement\Student Management\StudentManagement\obj\Debug\netcoreapp2.1\StudentManagement.RazorAssemblyInfo.cs
+C:\Users\Jaynil.Choksi\Downloads\StudentManagement\Student Management\StudentManagement\obj\Debug\netcoreapp2.1\StudentManagement.TagHelpers.input.cache
+C:\Users\Jaynil.Choksi\Downloads\StudentManagement\Student Management\StudentManagement\obj\Debug\netcoreapp2.1\StudentManagement.TagHelpers.output.cache
+C:\Users\Jaynil.Choksi\Downloads\StudentManagement\Student Management\StudentManagement\obj\Debug\netcoreapp2.1\StudentManagement.RazorCoreGenerate.cache
+C:\Users\Jaynil.Choksi\Downloads\StudentManagement\Student Management\StudentManagement\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Jaynil.Choksi\Downloads\StudentManagement\Student Management\StudentManagement\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Jaynil.Choksi\Downloads\StudentManagement\Student Management\StudentManagement\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Jaynil.Choksi\Downloads\StudentManagement\Student Management\StudentManagement\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Jaynil.Choksi\Downloads\StudentManagement\Student Management\StudentManagement\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Jaynil.Choksi\Downloads\StudentManagement\Student Management\StudentManagement\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Jaynil.Choksi\Downloads\StudentManagement\Student Management\StudentManagement\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Jaynil.Choksi\Downloads\StudentManagement\Student Management\StudentManagement\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Jaynil.Choksi\Downloads\StudentManagement\Student Management\StudentManagement\obj\Debug\netcoreapp2.1\Razor\Views\Student\Create.cshtml.g.cs
+C:\Users\Jaynil.Choksi\Downloads\StudentManagement\Student Management\StudentManagement\obj\Debug\netcoreapp2.1\Razor\Views\Student\Delete.cshtml.g.cs
+C:\Users\Jaynil.Choksi\Downloads\StudentManagement\Student Management\StudentManagement\obj\Debug\netcoreapp2.1\Razor\Views\Student\Details.cshtml.g.cs
+C:\Users\Jaynil.Choksi\Downloads\StudentManagement\Student Management\StudentManagement\obj\Debug\netcoreapp2.1\Razor\Views\Student\Edit.cshtml.g.cs
+C:\Users\Jaynil.Choksi\Downloads\StudentManagement\Student Management\StudentManagement\obj\Debug\netcoreapp2.1\Razor\Views\Student\Index.cshtml.g.cs
+C:\Users\Jaynil.Choksi\Downloads\StudentManagement\Student Management\StudentManagement\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Jaynil.Choksi\Downloads\StudentManagement\Student Management\StudentManagement\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Jaynil.Choksi\Downloads\StudentManagement\Student Management\StudentManagement\obj\Debug\netcoreapp2.1\StudentManagement.RazorTargetAssemblyInfo.cache
+C:\Users\Jaynil.Choksi\Downloads\StudentManagement\Student Management\StudentManagement\obj\Debug\netcoreapp2.1\StudentManagement.RazorTargetAssemblyInfo.cs
+C:\Users\Jaynil.Choksi\Downloads\StudentManagement\Student Management\StudentManagement\obj\Debug\netcoreapp2.1\StudentManagement.Views.pdb
+C:\Users\Jaynil.Choksi\Downloads\StudentManagement\Student Management\StudentManagement\obj\Debug\netcoreapp2.1\StudentManagement.dll
+C:\Users\Jaynil.Choksi\Downloads\StudentManagement\Student Management\StudentManagement\obj\Debug\netcoreapp2.1\StudentManagement.pdb
+C:\Users\Jaynil.Choksi\Downloads\StudentManagement\Student Management\StudentManagement\obj\Debug\netcoreapp2.1\StudentManagement.genruntimeconfig.cache
+C:\Users\Jaynil.Choksi\Downloads\StudentManagement\Student Management\StudentManagement\obj\Debug\netcoreapp2.1\StudentManagement.csproj.CopyComplete
+C:\Users\Sheth Multitech\Downloads\Student Management\Student Management\StudentManagement\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Sheth Multitech\Downloads\Student Management\Student Management\StudentManagement\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Sheth Multitech\Downloads\Student Management\Student Management\StudentManagement\bin\Debug\netcoreapp2.1\StudentManagement.deps.json
+C:\Users\Sheth Multitech\Downloads\Student Management\Student Management\StudentManagement\bin\Debug\netcoreapp2.1\StudentManagement.runtimeconfig.json
+C:\Users\Sheth Multitech\Downloads\Student Management\Student Management\StudentManagement\bin\Debug\netcoreapp2.1\StudentManagement.runtimeconfig.dev.json
+C:\Users\Sheth Multitech\Downloads\Student Management\Student Management\StudentManagement\bin\Debug\netcoreapp2.1\StudentManagement.dll
+C:\Users\Sheth Multitech\Downloads\Student Management\Student Management\StudentManagement\bin\Debug\netcoreapp2.1\StudentManagement.pdb
+C:\Users\Sheth Multitech\Downloads\Student Management\Student Management\StudentManagement\bin\Debug\netcoreapp2.1\StudentManagement.Views.dll
+C:\Users\Sheth Multitech\Downloads\Student Management\Student Management\StudentManagement\bin\Debug\netcoreapp2.1\StudentManagement.Views.pdb
+C:\Users\Sheth Multitech\Downloads\Student Management\Student Management\StudentManagement\obj\Debug\netcoreapp2.1\StudentManagement.csproj.AssemblyReference.cache
+C:\Users\Sheth Multitech\Downloads\Student Management\Student Management\StudentManagement\obj\Debug\netcoreapp2.1\StudentManagement.AssemblyInfoInputs.cache
+C:\Users\Sheth Multitech\Downloads\Student Management\Student Management\StudentManagement\obj\Debug\netcoreapp2.1\StudentManagement.AssemblyInfo.cs
+C:\Users\Sheth Multitech\Downloads\Student Management\Student Management\StudentManagement\obj\Debug\netcoreapp2.1\StudentManagement.csproj.CoreCompileInputs.cache
+C:\Users\Sheth Multitech\Downloads\Student Management\Student Management\StudentManagement\obj\Debug\netcoreapp2.1\StudentManagement.RazorAssemblyInfo.cache
+C:\Users\Sheth Multitech\Downloads\Student Management\Student Management\StudentManagement\obj\Debug\netcoreapp2.1\StudentManagement.RazorAssemblyInfo.cs
+C:\Users\Sheth Multitech\Downloads\Student Management\Student Management\StudentManagement\obj\Debug\netcoreapp2.1\StudentManagement.TagHelpers.input.cache
+C:\Users\Sheth Multitech\Downloads\Student Management\Student Management\StudentManagement\obj\Debug\netcoreapp2.1\StudentManagement.TagHelpers.output.cache
+C:\Users\Sheth Multitech\Downloads\Student Management\Student Management\StudentManagement\obj\Debug\netcoreapp2.1\StudentManagement.RazorCoreGenerate.cache
+C:\Users\Sheth Multitech\Downloads\Student Management\Student Management\StudentManagement\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Sheth Multitech\Downloads\Student Management\Student Management\StudentManagement\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Sheth Multitech\Downloads\Student Management\Student Management\StudentManagement\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Sheth Multitech\Downloads\Student Management\Student Management\StudentManagement\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Sheth Multitech\Downloads\Student Management\Student Management\StudentManagement\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Sheth Multitech\Downloads\Student Management\Student Management\StudentManagement\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Sheth Multitech\Downloads\Student Management\Student Management\StudentManagement\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Sheth Multitech\Downloads\Student Management\Student Management\StudentManagement\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Sheth Multitech\Downloads\Student Management\Student Management\StudentManagement\obj\Debug\netcoreapp2.1\Razor\Views\Student\Create.cshtml.g.cs
+C:\Users\Sheth Multitech\Downloads\Student Management\Student Management\StudentManagement\obj\Debug\netcoreapp2.1\Razor\Views\Student\Delete.cshtml.g.cs
+C:\Users\Sheth Multitech\Downloads\Student Management\Student Management\StudentManagement\obj\Debug\netcoreapp2.1\Razor\Views\Student\Details.cshtml.g.cs
+C:\Users\Sheth Multitech\Downloads\Student Management\Student Management\StudentManagement\obj\Debug\netcoreapp2.1\Razor\Views\Student\Edit.cshtml.g.cs
+C:\Users\Sheth Multitech\Downloads\Student Management\Student Management\StudentManagement\obj\Debug\netcoreapp2.1\Razor\Views\Student\Index.cshtml.g.cs
+C:\Users\Sheth Multitech\Downloads\Student Management\Student Management\StudentManagement\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Sheth Multitech\Downloads\Student Management\Student Management\StudentManagement\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Sheth Multitech\Downloads\Student Management\Student Management\StudentManagement\obj\Debug\netcoreapp2.1\StudentManagement.RazorTargetAssemblyInfo.cache
+C:\Users\Sheth Multitech\Downloads\Student Management\Student Management\StudentManagement\obj\Debug\netcoreapp2.1\StudentManagement.RazorTargetAssemblyInfo.cs
+C:\Users\Sheth Multitech\Downloads\Student Management\Student Management\StudentManagement\obj\Debug\netcoreapp2.1\StudentManagement.Views.pdb
+C:\Users\Sheth Multitech\Downloads\Student Management\Student Management\StudentManagement\obj\Debug\netcoreapp2.1\StudentManagement.dll
+C:\Users\Sheth Multitech\Downloads\Student Management\Student Management\StudentManagement\obj\Debug\netcoreapp2.1\StudentManagement.pdb
+C:\Users\Sheth Multitech\Downloads\Student Management\Student Management\StudentManagement\obj\Debug\netcoreapp2.1\StudentManagement.genruntimeconfig.cache
+C:\Users\Sheth Multitech\Downloads\Student Management\Student Management\StudentManagement\obj\Debug\netcoreapp2.1\StudentManagement.csproj.CopyComplete
